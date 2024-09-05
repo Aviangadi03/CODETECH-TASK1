@@ -33,4 +33,5 @@ This is a simple, user-friendly to-do list web application developed using HTML,
 
 ## License
 This project is open-source and free to use.
+![image](https://github.com/user-attachments/assets/94e804ae-eb2d-4ebb-a525-bf26a0a746de)
 
