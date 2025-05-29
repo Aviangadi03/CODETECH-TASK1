@@ -2,7 +2,7 @@
 **Name:** Avinash Angadi
 **Company:** CODETECH IT SOLUTIONS
 **ID:** CT08DS6590
-**Domain:** Ftontebd Web development
+**Domain:** Frontend Web development
 **Duation:** AUGUST 5th, 2024 to SEPTEMBER 5th,
 2024.
 **Mentor:**Neela Santosh Kumar
